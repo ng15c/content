@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-stylesheet type="text/xsl" href="dig-eg-gaz.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -7372,10 +7374,6 @@
                             and New Har : Holoman, Central Office, Maison, Purvie : Alexandria, St. Mark's Buildings, Egyptian Bar,
                             Castalli &amp; Co. ; Hamlah, Central Office, San Stefano Casino.<measure type="IndexNo">20-4-907</measure></p>
                         </div>
-                    
-                    <!-- fifth column of ads -->
-                    
-                    <!-- sixth column of ads -->
                 </div>
         </body>
     </text>
